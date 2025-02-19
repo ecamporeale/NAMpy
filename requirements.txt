@@ -1,6 +1,6 @@
 
 dash
-keras<3.0.0
+keras
 matplotlib
 pandas
 plotly
@@ -8,6 +8,6 @@ scikit-learn
 scipy
 seaborn
 tensorflow
-tensorflow_probability<=0.23
+tensorflow_probability
 tqdm
 setuptools
